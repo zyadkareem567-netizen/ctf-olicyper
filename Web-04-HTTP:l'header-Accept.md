@@ -87,5 +87,7 @@ if __name__ == "__main__":
 and this is the code 
 # Method of solving 
 * to solve this challenge just run the link in the challenge descrition and you will get the flag 
-the link ```http://web-04.challs.olicyber.it/users ```
-the flag ```flag{54m3_7hing_diff3r3n7_7hing} ```
+* the link ```http://web-04.challs.olicyber.it/users ```
+* another method to solve this is to using ```curl``` and the write command to use  it
+* ```curl -H "Accept: application/xml" http://web-04.challs.olicyber.it/users ```
+* the flag ```flag{54m3_7hing_diff3r3n7_7hing} ```
